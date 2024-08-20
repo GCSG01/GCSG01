@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://api.vvhan.com/api/ipCard)
 
-[$洛谷年度报告$](https://www.luogu.com.cn/user/annual-report) 
+[洛谷年度报告](https://www.luogu.com.cn/user/annual-report) 
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/62m8c4gf.png)
 
@@ -122,7 +122,7 @@ __int128 print(__int128 sum)
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/7frin3ot.png)
 
-- [$\mathbb{\mathcal{{{\color{red} 山河拱手，为君一笑 } } } } $](https://tse2-mm.cn.bing.net/th/id/OIP-C.e5WVjfwZ1LeI4cWEE1C2mQHaF5?w=247&h=197&c=7&r=0&o=5&pid=1.7)
+- $\mathbb{\mathcal{{{\color{red} 山河拱手，为君一笑 } } } } $
 
 - $\mathbb{\mathcal{{{\color{orange} 逝者如斯夫 ，不舍昼夜}  } } } $
 
@@ -134,7 +134,7 @@ __int128 print(__int128 sum)
 
 - $\mathbb{\mathcal{{{\color{indigo} 6   }  } } } $
 
-- $\mathbb{\mathcal{{{\color{purple} 7   }  } } } $
+- $\mathbb{\mathcal{{{\color{#800080} 7   }  } } } $
 
 随机图：
 
